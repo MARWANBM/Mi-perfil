@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="50"> ¡Hola! Soy Marwan Aiachi Ben El Mir
+# ¡Hola! Soy Marwan Aiachi Ben El Mir
 
 Bienvenido a mi perfil de GitHub 🎉  
 Soy estudiante de **primer curso de DAW** y este es mi espacio para compartir mis proyectos y aprendizajes.
